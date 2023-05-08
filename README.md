@@ -42,7 +42,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the Admin Panel, click on "Settings" and then "Help Topics".->
+Create a new help topic or modify an existing one to suit your needs.->
+Go to the "Departments" tab and create a new department or modify an existing one.
 </p>
 <br />
 
@@ -50,6 +52,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the "Agents" tab, create a new agent account or modify an existing one. ->
+Assign the agent to the department you created earlier. ->
+Go to the "Email" tab and configure your email settings. ->
+Test your email settings by sending a test email. ->
+Once you have completed these steps, osTicket is ready to use.
 </p>
 <br />
