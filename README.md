@@ -39,7 +39,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/P1lTW9T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the Admin Panel, click on "Settings" and then "Help Topics".->
@@ -49,7 +49,7 @@ Go to the "Departments" tab and create a new department or modify an existing on
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/w7nd8bS.png"80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the "Agents" tab, create a new agent account or modify an existing one. ->
