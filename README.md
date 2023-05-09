@@ -25,7 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Roles
 - Configure Department: Admin Panel 
 - Configure Teams: Admin Panel
-- Allow anyone to creat tickets
+- Allow anyone to create tickets
 - Configure Agents (workers)
 
 <h2>Configuration Steps</h2>
